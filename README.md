@@ -7,7 +7,7 @@ Statistics is the exploration of methods for gathering, analyzing, and interpret
 
 ## Description of Modules
 ### Module 1 📖
-In this module i learned what is statistics, types of Statistics (Descriptive&Inferential), learned and practiced measures of center - mean, median, mode; measures of spread - variance, standard deviation, quantiels, boxplots, interquantile range and learned how to find outliers with statistics.
+In this module i learned what is statistics, what is left and right skewed distributions, types of Statistics (Descriptive&Inferential), learned and practiced measures of center - mean, median, mode; measures of spread - variance, standard deviation; quantiels, boxplots, interquantile range and learned find outliers with statistics and visualizations.
 
 ### Module 2 📖
 In the second module i learned and practiced Probability, sample and sampling distribution, sampling with and without replacement, learned Discrete and Continious types of distributions, understood how to find probability for each item and visualize it.
